@@ -1,7 +1,7 @@
 I have changed the application
 
-This is my Sample Application
+This is Sample Application
 
-Editing and changing my Application
+Editing changing my Application
 
 finding second repository difference
