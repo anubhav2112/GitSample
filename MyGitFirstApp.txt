@@ -4,4 +4,10 @@ This is Sample Application
 
 Editing changing my Application
 
+<<<<<<< HEAD
 finding second repository difference
+=======
+finding difference
+
+Now i am editing
+>>>>>>> bfdd6c33ea38b5d75d78ab5211abff11791597bc
