@@ -2,7 +2,7 @@ I have changed the application
 
 This is Sample Application
 
-Editing changing my Application
+Editing & changing my Application
 
 finding second repository difference
 
@@ -10,3 +10,4 @@ finding difference
 
 Now i am editing
 
+See diff in git
