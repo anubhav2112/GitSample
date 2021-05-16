@@ -10,6 +10,6 @@ finding difference
 
 Now i am editing
 
-I also changed
-
 See diff in git
+
+I also changed
