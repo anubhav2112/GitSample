@@ -2,12 +2,21 @@ I have changed the application
 
 This is Sample Application
 
-Editing changing my Application
-
 <<<<<<< HEAD
-finding second repository difference
+Editing and changing my Application
 =======
+Editing & changing my Application
+>>>>>>> c29f96b9b3b0e153e1a738618aa7751d5a66c1d4
+
+finding second repository difference
+
 finding difference
 
 Now i am editing
->>>>>>> bfdd6c33ea38b5d75d78ab5211abff11791597bc
+
+<<<<<<< HEAD
+I also changed
+
+=======
+See diff in git
+>>>>>>> c29f96b9b3b0e153e1a738618aa7751d5a66c1d4
